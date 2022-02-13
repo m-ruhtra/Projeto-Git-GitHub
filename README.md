@@ -6,7 +6,7 @@
 
 **Objetivo**
  
- Este repositório está sendo direcionado para estudo e aprimoramento de habilidades. 
+ Este repositório está sendo direcionado para estudo e aprimoramento de habilidades. <br/>
  Contendo: (Por enquanto)
  * O aprendizado ao longo do tempo, atividades realizadas, códigos utilizados;
  * Erros encontrados e método de resolução;
