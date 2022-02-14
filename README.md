@@ -20,5 +20,7 @@
 * Commit;
 * Criação de branch (ramificação do arquivo); 
 * Merge, junção de branch com main;
+* Clone de repositórios do GitHub;
+* Fork de repositórios no GitHub;
 
 
