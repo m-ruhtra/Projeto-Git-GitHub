@@ -18,4 +18,7 @@
 * Criação de repositório local e remoto;
 * Conexão entre os repositórios;
 * Commit;
+* Criação de branch (ramificação do arquivo); 
+* Merge, junção de branch com main;
+
 

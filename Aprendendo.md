@@ -30,3 +30,4 @@
   <br/>
 -git checkout: Permite a navegaão entre as ramificações do repositório.
   <br/>
+-git merge: Junção de ramificações.
