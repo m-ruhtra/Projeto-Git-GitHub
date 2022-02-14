@@ -4,7 +4,7 @@
 
 ### Aprendendo Git e GitHub
 
-**Objetivo**
+**Objetivo:**
  
  Este repositório está sendo direcionado para estudo e aprimoramento de habilidades. <br/>
  Contendo: (Por enquanto)
@@ -14,6 +14,7 @@
 
 **Realizado:**
 
+* Primeiro contato com Markdow;
 * Criação de repositório local e remoto;
 * Conexão entre os repositórios;
 * Commit;
